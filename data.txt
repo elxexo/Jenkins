@@ -7,6 +7,3 @@ holaaaaaaaaa
 
 
 esto es un cambio para jenkins
-
-
-Esto es un ejemplo para el profesor
